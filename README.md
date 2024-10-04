@@ -1,7 +1,7 @@
 # Minishell
 The objective of this project is for you to create a simple shell.
 
-# Resources
+# Ressources
 - [pipes](https://reactive.so/post/42-a-comprehensive-guide-to-pipex)
 - [minishell guide](https://achrafbelarif.medium.com/42cursus-minishell-29cd25f972e6)
 - [shunting yard for the win](https://somethingorotherwhatever.com/shunting-yard-animation/)
